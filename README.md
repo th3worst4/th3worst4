@@ -9,7 +9,7 @@ So, in the vacation that came after, I decided to learn more languages, was with
 Now I started to study some HTML, CSS and JavaScript. I hope that as soon as possible I can upload some project here.
 
 <div>
-  <a hef="https://github.com/th3worst4"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=4&theme=dark">
+  <a hef="https://github.com/th3worst4" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=4&theme=dark" target="_blank"><a/>
 </div>
 
