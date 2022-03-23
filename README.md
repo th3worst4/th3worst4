@@ -12,3 +12,7 @@ Now I started to study some HTML, CSS and JavaScript. I hope that as soon as pos
   <a hef="https://github.com/th3worst4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=4&theme=dark">
 <div/>
+
+<div style = "display : inline_block"><br>
+  <img align="center" alt="theworst_codes_in_cpp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" 
+<div/>
