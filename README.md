@@ -8,11 +8,16 @@ So, in the vacation that came after, I decided to learn more languages, was with
 
 Now I started to study some HTML, CSS and JavaScript. I hope that as soon as possible I can upload some project here.
 
-<div>
-  <a hef="https://github.com/th3worst4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=4&theme=dark">
-<div/>
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.0/devicon.min.css">
+</head>
 
-<div style = "display : inline_block"><br>
-  <img align="center" alt="theworst_codes_in_cpp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" 
-<div/>
+<div>
+  <a hef="https://github.com/th3worst4"><a/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=4&theme=dark">
+</div>
+
+<div style = "display : inline_block;"><br>
+  <img align="center" alt="theworst_codes_in_cpp" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"> 
+  <i class="devicon-cplusplus-plain-wordmark"></i>
+</div>
