@@ -10,7 +10,7 @@ Now I started to study some HTML, CSS and JavaScript. I hope that as soon as pos
 
 <div>
   <a href="https://github.com/th3worst4" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=4&theme=dark" target="_blank"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=10&theme=dark" target="_blank"></a>
 </div>
 
 <div>
