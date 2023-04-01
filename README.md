@@ -5,7 +5,7 @@
   <tbody>
     <tr><td>
       <a href="https://github.com/th3worst4?tab=repositories" target="_blank">
-      <img width="500em" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark&langs_count=6"></a>
+      <img width="500px" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark&langs_count=6"></a>
     </td>
     <td rowspan='2' width='200px' align='justify'>
       I'm 20 years old and a college student. I'm in the third year of Mechanical Engeneering graduation. On my free time I like to study Programing!
