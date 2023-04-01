@@ -3,7 +3,7 @@
 <html>
 <div>
   <a href="https://github.com/th3worst4?tab=repositories" target="_blank">
-  <img lenght="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark"></a>
+  <img lenght="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark"></a>
 </div>
 
 <div>
