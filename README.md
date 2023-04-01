@@ -1,7 +1,7 @@
 <html>
   <h1>Hi, I'm Caio Couto</h1>
 
-<table>
+<table align="center">
   <tbody>
     <tr><td>
       <a href="https://github.com/th3worst4?tab=repositories" target="_blank">
