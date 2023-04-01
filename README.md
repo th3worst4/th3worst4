@@ -5,7 +5,7 @@
   <tbody>
     <tr><td>
       <a href="https://github.com/th3worst4?tab=repositories" target="_blank">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark&exclude_repo=square-root-of-a-in-fortran-95"></a>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark&langs_count=6"></a>
     </td></tr>
     <tr><td>
        <a href="https://www.linkedin.com/in/caio-silva-couto-98690221a/" target="_blank">
