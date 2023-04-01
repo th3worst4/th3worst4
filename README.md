@@ -1,7 +1,6 @@
-### Hi, My name is Caio Couto!
-
 <html>
-<div>
+  <h1>Hi, I'm Caio Couto</h1>
+<div align="center">
   <a href="https://github.com/th3worst4?tab=repositories" target="_blank">
   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark"></a>
 </div>
