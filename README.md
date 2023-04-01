@@ -1,7 +1,7 @@
 <html>
-  <h1>Hi, I'm Caio Couto</h1>
+  <h1 align="center">Hi, I'm Caio Couto</h1>
 
-<table align="center">
+<table align="center" style="border:0px">
   <tbody>
     <tr><td>
       <a href="https://github.com/th3worst4?tab=repositories" target="_blank">
@@ -9,7 +9,7 @@
     </td></tr>
     <tr><td>
        <a href="https://www.linkedin.com/in/caio-silva-couto-98690221a/" target="_blank">
-        <img class=".social-media" height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+       <img class=".social-media" height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </td></tr>
   </tbody>
 </table>
