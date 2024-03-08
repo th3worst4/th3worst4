@@ -8,7 +8,7 @@
       <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3worst4&layout=compact&langs_couns=9&theme=dark&langs_count=6&hide=html,css,powershell,batchfile,makefile,tex"></a>
     </td>
     <td rowspan='2' width='200px' align='justify'>
-      My name is Caio. I'm 20 years old. And I don't know what to say about myself
+      My name is Caio. I'm 20 years old.
     </td></tr>
     <tr><td>
        <a href="https://www.linkedin.com/in/caio-silva-couto-98690221a/" target="_blank">
